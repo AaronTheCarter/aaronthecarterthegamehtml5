@@ -1,0 +1,84 @@
+{
+  "name": "Aaron The Carter: The Game",
+  "short_name": "Aaron The Carter: The Game",
+  "id": "com.m4k3rllc.atcthegame",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "4048e7e2bc08108da1cc0a4fde35782132377e751bcadccb7e7e8d4c4a21e6e5-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "a8af286f8a58f720e98d8f00a2d328d05eea516b9bbf83a216b107ed5a45b8ea-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "a50fb2c67135fe67f84473ba681435f35637aca736b0155216272654cf513ced-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "e49f1c91fe5f95d661cb557fe273c2f81e35bb0e22db778764e2c3016eb9c574-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "0fb4db4bbc241c48e2044e719f2cd95e209fa6e0f0acae61f40dbbd63ddad87e-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "c4a35f0694d75bc145e91f3c64f83b5edfb8b8c9470af6968d194802321784e9-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "ab842294c8ca2c996d8a553a1f5152829893b5ec4a4c75f4c42d3fcbf86ed206-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "2d40b2f80de5f90d5bfde27633961dd2a1bfd95cfe1271c86687ce8a4999d5a4-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "8b7942c69dd386df3dcfd3255d827fcfc0f81aba1e857794ecea95f1cbe3e5cd-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "1c78dc6306fe9b1b1f67e850a8c9f1a0c506dc10e3869d0e9dfc53f5edbb8534-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "ffc19e81faad21642d10218a05962a145cca24f42ca1dc34b7a5bf0b4d8840c8-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "31e3c4c1d4de6a6e3d236e142d68190d77e326ef1bf3b92e4d4a4d2544396503-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "c933293855b851546bef9fe205f790e005610c2ca2fe34cfbb2e3d14b059cfdd-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "84549d15af821835843d9b065fc723f233e095e0e2d0f396ab1812712e669eea-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "bfd501b3616d5c50decca5f96265f4214015ebe7a35bdf5beafe853a68ec9665-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "3181181f96604df9d7ce6a86f4f5204249c9ca5b8c41e1b5263a161e4b98fe24-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "1f8e452de48c1ed56ddd8fc70395f5fb277ece326100aa66d81d23fb3b65f18e-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "b4b26a29f8c32a598c887578b5ea0733a10f1e63362483564bf79db3f55be721-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "0f699e36c2b10211b3e357c87cfe419b3b8315423c1cd3c49f8a09f7c55d294b-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "09529c350796a047b97794da3e49b99a14fe00c6a12332611d938ec27a31c0ac-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "ec11856a213b42f06f2f63594f57be0c3b62f9a25164b51392c0972ec29c7130-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "60b6de913d3f3e2895ac57bbff945f042b73cdad48c0ccb70e85339559bd5524-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "c2fbc58b2e2fd7d4e52a256125fb2cb05e207fd4c8737d27d8087340a4477a9c-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "31328e02aa368784931653b8a4d1de64f1521483fd87c9ca9de21f7c70ae0afc-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
